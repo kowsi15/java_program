@@ -11,7 +11,7 @@ public class new3
     {
 	    Scanner sc= new Scanner(System.in);
 System.out.print("Enter a string: ");  
-String str = "my name"
+String str = "my name";
 		            //reads string   
 System.out.print("You have entered: "+str);             
 }  
