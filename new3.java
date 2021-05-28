@@ -5,7 +5,7 @@ import java.util.*;
  * Hello world!
  *
  */
-public class App 
+public class new3
 {
     public static void main( String[] args )
     {
